@@ -5,7 +5,7 @@ Vital Signs-based User Authentication using mmWave Radar (ViSUAR)
 
 2) user_check.m will ask you to enter a case number.
    The database is already populated with 3 cases.
-   These cases contain unprocessed heartbeat data collected from 3 users (1 female, 2 male particiapnts).
+   These cases contain unprocessed heartbeat data collected from 3 users (1 female, 2 male participants).
 
 ViSUAR Flowchart is show below.
 ![visuar_flowchart](https://github.com/user-attachments/assets/e8cea274-f619-4400-99cf-9187724d8b8d)
