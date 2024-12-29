@@ -7,6 +7,9 @@ Vital Signs-based User Authentication using mmWave Radar (ViSUAR)
    The database is already populated with 3 cases.
    These cases contain unprocessed heartbeat data collected from 3 users (1 female, 2 male particiapnts).
 
+ViSUAR Flowchart is show below.
+![visuar_flowchart](https://github.com/user-attachments/assets/e8cea274-f619-4400-99cf-9187724d8b8d)
+
 Vital signs detection alogorithm include below processes:
 1) User's chest motion detection.
 2) Phase estimation of received signal provides information on user's heartbeat/breathing related motion.
@@ -17,6 +20,3 @@ Vital signs detection alogorithm include below processes:
 7) Principal Component Analysis (PCA) transformation applied on extracted features to find unique heartbeat pattern.
 8) Unique heartbeat pattern is stored as user's cardiac profile.
 9) Learning algorithm is trained with collected cardiac profile of all users to perform user authentication.
-
-ViSUAR Flowchart is show below.
-![visuar_flowchart](https://github.com/user-attachments/assets/e8cea274-f619-4400-99cf-9187724d8b8d)
