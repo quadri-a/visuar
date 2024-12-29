@@ -1,4 +1,4 @@
-# ViSUAR: Vital Signs-based User Authentication using mmWave Radar (ViSUAR)
+# ViSUAR: Vital Signs-based User Authentication using mmWave Radar 
 
 1) Please start by runnning the script user_check.m
 
