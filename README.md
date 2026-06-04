@@ -9,7 +9,7 @@
 ViSUAR Flowchart is show below.
 ![visuar_flowchart](https://github.com/user-attachments/assets/e8cea274-f619-4400-99cf-9187724d8b8d)
 
-Vital signs detection alogorithm include below processes:
+Vital signs detection algorithm include below processes:
 1) User's chest motion detection.
 2) Phase estimation of received signal provides information on user's heartbeat/breathing related motion.
 3) Empirical mode decomposition-based first stage filtering of signal.
